@@ -34,9 +34,11 @@
 <text x="506.98" y="296.54" font-size="7" text-anchor="middle" fill="#111" font-weight="normal">wall</text>
 <rect x="522.92" y="319.96" width="43.08" height="31.43" fill="#d2b4de" fill-opacity="0.6" stroke="#17202a" stroke-width="0.5"/>
 <text x="544.46" y="338.68" font-size="7" text-anchor="middle" fill="#111" font-weight="normal">rim</text>
-<rect x="445.38" y="88.57" width="64.62" height="40.00" fill="#2e86c1" fill-opacity="0.6" stroke="#17202a" stroke-width="0.5"/>
-<text x="477.69" y="111.57" font-size="7" text-anchor="middle" fill="#111" font-weight="normal">J201</text>
-<text x="24.00" y="374.00" font-size="8" text-anchor="start" fill="#566573" font-weight="normal">J1501: NO strict-clearance pose (R2-S08)</text>
+<rect x="434.62" y="88.57" width="64.62" height="25.71" fill="#2e86c1" fill-opacity="0.6" stroke="#17202a" stroke-width="0.5"/>
+<text x="466.92" y="104.43" font-size="7" text-anchor="middle" fill="#111" font-weight="normal">J1501</text>
+<rect x="396.92" y="88.57" width="64.62" height="40.00" fill="#2e86c1" fill-opacity="0.6" stroke="#17202a" stroke-width="0.5"/>
+<text x="429.23" y="111.57" font-size="7" text-anchor="middle" fill="#111" font-weight="normal">J201</text>
+<text x="24.00" y="374.00" font-size="8" text-anchor="start" fill="#566573" font-weight="normal">J1501: placed at r 20.75 mm</text>
 <rect x="600.0" y="50.0" width="560.0" height="300.0" fill="#fbfcfc" stroke="#aab7b8"/>
 <text x="604.00" y="45.00" font-size="10" text-anchor="start" fill="#111" font-weight="bold">FT-T charger: PEEK-class insert in the Ti plate, spring, pad (inside the main seal)</text>
 <line x1="600.0" y1="50.0" x2="600.0" y2="350.0" stroke="#e5e8e8"/>
@@ -100,9 +102,9 @@
 <text x="544.46" y="560.86" font-size="7" text-anchor="middle" fill="#111" font-weight="normal">case wall</text>
 <rect x="445.38" y="438.57" width="70.00" height="132.86" fill="#fadbd8" fill-opacity="0.6" stroke="#17202a" stroke-width="0.5"/>
 <text x="480.38" y="508.00" font-size="7" text-anchor="middle" fill="#111" font-weight="normal">zone B: thin battery_zone 4.65</text>
-<rect x="429.23" y="438.57" width="86.15" height="130.00" fill="#e74c3c" fill-opacity="0.6" stroke="#17202a" stroke-width="0.5"/>
-<text x="472.31" y="506.57" font-size="7" text-anchor="middle" fill="#111" font-weight="normal">LRA seated 4.55 (no pose)</text>
-<text x="24.00" y="724.00" font-size="8" text-anchor="start" fill="#566573" font-weight="normal">Z-fit margin 0.100 mm at h_sc 0.77 (largest h_sc that fits 0.870 mm); pose none</text>
+<rect x="368.33" y="438.57" width="94.77" height="130.00" fill="#e74c3c" fill-opacity="0.6" stroke="#17202a" stroke-width="0.5"/>
+<text x="415.72" y="506.57" font-size="7" text-anchor="middle" fill="#111" font-weight="normal">LRA seated 4.55</text>
+<text x="24.00" y="724.00" font-size="8" text-anchor="start" fill="#566573" font-weight="normal">Z-fit margin 0.100 mm at h_sc 0.77 (largest h_sc that fits 0.870 mm); pose az 231 r 18.37</text>
 <rect x="600.0" y="400.0" width="560.0" height="300.0" fill="#fbfcfc" stroke="#aab7b8"/>
 <text x="604.00" y="395.00" font-size="10" text-anchor="start" fill="#111" font-weight="bold">Worst button (SW1) and SW5: boss + boot / seal inside +3.0 mm</text>
 <line x1="600.0" y1="400.0" x2="600.0" y2="700.0" stroke="#e5e8e8"/>
